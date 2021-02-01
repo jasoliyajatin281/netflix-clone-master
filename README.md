@@ -8,7 +8,7 @@ Jatin Jasoliya
 
 # Demo
 
-The app is deployed using Firebase at https://netflix-clone-ec0f5.web.app/
+The app is deployed using Firebase at https://netflic-clone-master.web.app
 
 ## Available Scripts
 
